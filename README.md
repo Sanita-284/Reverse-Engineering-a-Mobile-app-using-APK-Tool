@@ -7,14 +7,6 @@ A mini project on Android mobile application security analysis through reverse e
 
 ---
 
-## 🔗 Demo Link
-
-🌐 **Project Demo / Presentation:** https://your-demo-link.com
-
-> Replace the above URL with your GitHub Pages, YouTube demo, Drive presentation, or hosted project link.
-
----
-
 ## 📌 Overview
 
 This project demonstrates mobile security threat analysis by creating and reverse engineering a malicious Android application named **"Happening Around the City"**.
